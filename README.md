@@ -1,5 +1,7 @@
 # 🛍️ E-Commerce Full Stack Application
 
+![App Screenshot](screenshots/readme_ss.jpg)
+
 A modern, full-stack e-commerce platform built with **Go** (backend) and **React Native/Expo** (mobile frontend). This project features a RESTful API with JWT authentication, integrated payment processing with Stripe, and a beautiful mobile-first shopping experience.
 
 ---
