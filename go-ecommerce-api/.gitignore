@@ -1,0 +1,44 @@
+# Binaries and executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go build artifacts
+/build/
+bin/
+tmp/
+*.log
+
+# Dependency directories (vendor, if generated)
+vendor/
+
+# Air live reload temporary files
+.air.toml
+tmp/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE and editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Go module cache
+go.sum
+
+# Coverage and testing
+coverage.out
+*.coverprofile
